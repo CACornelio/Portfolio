@@ -1,0 +1,15 @@
+.title{
+    display: block;
+   position: absolute;
+   top: 0%;
+  left:55%;
+    color: pink;
+}
+.projectname{
+  
+    display: flex;
+    flex-direction: row;
+    // left: 50%;
+    text-align: left;
+    justify-content: flex-start;
+}
