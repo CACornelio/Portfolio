@@ -14,7 +14,7 @@ const Auxie = () => {
   };
   return (
     <div>
-      <h1 style={{textAlign:'center',}}>Auxie</h1>
+      <h1 style={{textAlign:'center', textDecoration:'underline',textDecorationThickness:1}}>Auxie</h1>
     <div className={style.videocontainer}>
     <YouTube videoId={videoId} opts={opts} />
 
